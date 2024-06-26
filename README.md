@@ -1,0 +1,1 @@
+This is my project for course SMM (mathematical methods in fluid dynamics). We were given some specific numerical method and we had to implement it in order to solve initial problem of fluid flow in 1D and 2D.
